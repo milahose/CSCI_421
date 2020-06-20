@@ -32,7 +32,7 @@ fun ordList_mymap1 x = mymap1 ord x;
 fun ordList_mymap2 x = mymap2 ord x;
 
 (*
-  Write a function mylength of type ‘a list -> int that returns 
+  Write a function myLength of type ‘a list -> int that returns 
   the length of a list. You cannot use the built-in length function.
 *)
 fun myLength s = foldl (fn (_, y) => 1 + y) 0 s
