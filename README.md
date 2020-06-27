@@ -1,3 +1,3 @@
 # CSCI_421: Programming Languages
 
-Small programs completed in ML and Prolog.
+Small programs written in SML/NJ and Prolog.
